@@ -1,0 +1,11 @@
+G:\ShilambGames\GGJam\GGJam\Temp\bin\Debug\Assembly-CSharp.dll
+G:\ShilambGames\GGJam\GGJam\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\ShilambGames\GGJam\GGJam\Temp\bin\Debug\UnityEditor.dll
+G:\ShilambGames\GGJam\GGJam\Temp\bin\Debug\UnityEngine.dll
+G:\ShilambGames\GGJam\GGJam\Temp\bin\Debug\Mono.Cecil.dll
+G:\ShilambGames\GGJam\GGJam\Temp\bin\Debug\nunit.framework.dll
+G:\ShilambGames\GGJam\GGJam\Temp\bin\Debug\Unity.DataContract.dll
+G:\ShilambGames\GGJam\GGJam\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\ShilambGames\GGJam\GGJam\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\ShilambGames\GGJam\GGJam\obj\Debug\Assembly-CSharp.dll
+G:\ShilambGames\GGJam\GGJam\obj\Debug\Assembly-CSharp.pdb
